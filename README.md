@@ -2,20 +2,18 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<a href="https://github.com/m0rp43us">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihkhl-mueller&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+### Technologies
 
 
+<p align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ihkhl-mueller&theme=dark&background=000000)](https://git.io/streak-stats)
-
+</p>
 <!--
 **ihkhl-mueller/ihkhl-mueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
