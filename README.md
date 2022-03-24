@@ -14,7 +14,8 @@
 ### Technologies
 
 
-<p align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ihkhl-mueller&theme=dark&background=000000)](https://git.io/streak-stats)</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ihkhl-mueller&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="m0rp43us" /></p>
+
 <!--
 **ihkhl-mueller/ihkhl-mueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
