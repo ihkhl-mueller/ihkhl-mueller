@@ -2,9 +2,9 @@
 <a href="https://github-readme-stats.vercel.app/api?username=ihkhl-mueller&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ihkhl-mueller&bg_color=30,003061,ccd7e6&title_color=fff&text_color=fff" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs?username=ihkhl-mueller&count_private=true&show_icons=true&theme=chartreuse-dark">
+<!-- <a href="https://github-readme-stats.vercel.app/api/top-langs?username=ihkhl-mueller&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihkhl-mueller&count_private=true&bg_color=30,003061,ccd7e6&title_color=fff&text_color=fff" />
-</a>
+</a> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihkhl-mueller)](https://github.com/ihkhkl-mueller/github-readme-stats) -->
 
